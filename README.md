@@ -5,9 +5,9 @@ This project is the master repository which contains frontend and and backend
 Firstly clone the project
 For backend 
 ```
-git clone backend with branch name API-Integratioin
-```
 git clone https://github.com/fagami1423/music_generation/tree/API-Integratioin
+```
+For frontend
 ```
 git clone https://github.com/fagami1423/music_frontend
 ```
@@ -19,7 +19,7 @@ docker compose up
 ```
 For Frontend
 ```
-http://localhost:3000
+http://localhost
 ```
 For Backend
 ```
