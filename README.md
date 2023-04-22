@@ -3,6 +3,17 @@ This project aims to generate and continue music using various machine-learning 
 
 This project is the master repository which contains frontend and and backend
 Firstly clone the project
+
+### The project folder structure 
+```
+|-- music_frontend //frontend
+|-- music_generation //backend
+|-- .gitignore
+|-- docker-compose.yml
+|-- README.md
+```
+
+### Please follow the procedure
 For backend 
 ```
 git clone https://github.com/fagami1423/music_generation/tree/API-Integratioin
